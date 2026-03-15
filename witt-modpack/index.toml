@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ee"
+hash = "4c506c99b0017799de2b01a7ada08292bc229c8ee4bc766c0b5d11ad2fc7c29d"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "e3542efde2011e7315bb2bda8c0f32a4eda47299f82a462d2a78c93c23997752"
 metafile = true
@@ -230,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "0e66841d986f960b37820129ca73b60b3c7f873d147ff64485ffa5bd12213fe9"
+hash = "98b00e178f7ec3b67187880168d95cda76d93eb6d4c6b7315df273d70a225656"
 metafile = true
 
 [[files]]
