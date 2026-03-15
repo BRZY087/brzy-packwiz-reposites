@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5371475
 project-id = 574741
+
+[option]
+optional = true
+description = "ZOOMMMM"
