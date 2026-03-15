@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7579014
 project-id = 317780
+
+[option]
+optional = true
+description = "Pomůcka pro Buildera, mapa s waypointy. Tool for Builder, map with waypoints."
