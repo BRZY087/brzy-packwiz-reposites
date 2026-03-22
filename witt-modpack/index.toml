@@ -242,6 +242,6 @@ file = "resourcepacks/skt-bcg var4 v1.1.zip"
 hash = "b94b5a5e92d311dc3b3cca05f286a5d2da73b992a89580ecec0b83dc41cbbe9a"
 
 [[files]]
-file = "resourcepacks/trails-and-tales-panorama-with-shaders.pw.toml"
-hash = "e4d2bcef91a2d6ffe2686921d4e2fa14833de739498e00c0c418de2a05c060a0"
+file = "resourcepacks/vanilla-panorama-with-shader.pw.toml"
+hash = "c03d80253e2baa06dcac5943d274fdc029c3bb6137cffd76add7ad9bb17cd849"
 metafile = true
