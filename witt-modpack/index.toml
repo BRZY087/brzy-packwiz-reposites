@@ -245,3 +245,8 @@ hash = "b94b5a5e92d311dc3b3cca05f286a5d2da73b992a89580ecec0b83dc41cbbe9a"
 file = "resourcepacks/vanilla-panorama-with-shader.pw.toml"
 hash = "c03d80253e2baa06dcac5943d274fdc029c3bb6137cffd76add7ad9bb17cd849"
 metafile = true
+
+[[files]]
+file = "resourcepacks/wanderlust-vanilla-shader.pw.toml"
+hash = "e1ec0dcb4a3ee994b7a4191ced816cc2677d68ea1511dfffe0c21bb8148ab31a"
+metafile = true

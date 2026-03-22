@@ -1,0 +1,13 @@
+name = "Vanilla Shader"
+filename = "Vanilla Shader V2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hXre4kOm/versions/8jm2IB0j/Vanilla%20Shader%20V2.zip"
+hash-format = "sha512"
+hash = "6409dd3a0bff5bdef867d767558a337e4e37addafba7734850c3c6b4569afead6d3bf3a23b24a96849f592d8ec7b934a2a8bf1fe7c12ce039b5a6b897cd97012"
+
+[update]
+[update.modrinth]
+mod-id = "hXre4kOm"
+version = "8jm2IB0j"
