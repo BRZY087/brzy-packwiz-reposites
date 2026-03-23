@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4706163
 project-id = 409301
+
+[option]
+optional = true
+description = "Rozšiřuje render distance, pokud si hráč načte chunky ve hře. Expand render distance when player load chunks in the game."

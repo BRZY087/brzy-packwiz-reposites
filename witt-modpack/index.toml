@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "d7255889c832072601ab0a3878f5cbeb056d3bc903146074e22c5850433ee747"
+hash = "4152fe1f9f3cd4838128f31207bcd67d3ce148876aab21c4c73e694bce5e3778"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "76c4b5a7d1d354d678ff27afdc45134c357933d57f889f6738ca7a9d24772508"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
 
 [[files]]
@@ -145,18 +145,18 @@ hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
 metafile = true
 
 [[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "83718d6202aec5aada8fa2f790136386478f5d48d707037a43666721f00137a2"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "d15f94b721a01d87f9f714429a5a2dec23992e67d2bbafa65fc53f203f45ff1b"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "5ed623c657ac0795ebea5e577c6b3a90d32129fc9d79e293823fdd97b9746f6f"
+metafile = true
+
+[[files]]
+file = "mods/gputape.pw.toml"
+hash = "920625e157c7065b77791f3c498e47ec0d394e46196a2f9c39677aa662146129"
 metafile = true
 
 [[files]]
@@ -167,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
 metafile = true
 
 [[files]]
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
+metafile = true
+
+[[files]]
+file = "mods/toadlib.pw.toml"
+hash = "853e563171cf07d427001681d8018f1f1909ab968e3fe912bdfacf7df2ad744c"
 metafile = true
 
 [[files]]
