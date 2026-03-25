@@ -13,10 +13,6 @@ file = "config/betterpingdisplay.json"
 hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
 
 [[files]]
-file = "config/blur.json"
-hash = "c217a4f09f8de6a33eac363ea53b42d70dfe263b1e0d9d0cd98caf2c01e773ac"
-
-[[files]]
 file = "config/bobby.conf"
 hash = "c68451123f5ce4210045f877d67d5930cca2c9f183c4951da26a54a0a464539c"
 
