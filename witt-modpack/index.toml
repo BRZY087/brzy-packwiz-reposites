@@ -16,6 +16,11 @@ hash = "eb0d74103b07e202b36d7e7e0957afc054d9622acf8ecb738e5856b5144a7b3b"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "a6ba043b2ed6dae954b278007a2e8c5a5634b6d7110bbe529753bc4cb9244c48"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "378184d2642a7ed600c63b8a3f93a76255592a0f4695c992a130784f1bb2dc94"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "3c9575df506c2514c9c5e162c55dc5d5ff4a85bc50baf0c71ccbb5fe8a5105bc"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
 
 [[files]]
@@ -125,6 +135,11 @@ hash = "5d01b272a43cf490d673ae9179bff0afd740b7b3884eb64be587fd7e8e0f4133"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "180cf54939ba1316f67960486cdc9da00d805f8511f12169af38719323a8e291"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "64812716eff60acd077307ad30922e02c967713037a8d88e4870943d0215ab6f"
 metafile = true
@@ -160,11 +175,6 @@ hash = "5ed623c657ac0795ebea5e577c6b3a90d32129fc9d79e293823fdd97b9746f6f"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "920625e157c7065b77791f3c498e47ec0d394e46196a2f9c39677aa662146129"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4833d71d50426503dc98c43d1ffa85a37facb1dbbe90c52694bd784abe5f9d47"
 metafile = true
@@ -177,6 +187,16 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
@@ -251,6 +271,11 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "8dfa01382b1e738fd9ee7ce8ddcbe20fa25c4b587294924bbd51d79659ef02cd"
+
+[[files]]
+file = "resourcepacks/mc10.pw.toml"
+hash = "d59f4ec6093398376b87b57b5362ca62f6eb2c2dacd03bf61e2ef3359fe4bdf0"
+metafile = true
 
 [[files]]
 file = "resourcepacks/skt-bcg var4 v1.1.zip"

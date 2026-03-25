@@ -1,0 +1,17 @@
+name = "Minecraft Ten Font"
+filename = "MinecraftTen 1.1 for 1.20.2-1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A07sPP6a/versions/E3DTU1nR/MinecraftTen%201.1%20for%201.20.2-1.21.zip"
+hash-format = "sha512"
+hash = "5e9cade16e2e0b879443d55989f97bb30a3941427840d4883b1a88b34ea0f10daf615a1491dee6559af9ae1213375ebd420a443a8af121b85492d528422c28b5"
+
+[update]
+[update.modrinth]
+mod-id = "A07sPP6a"
+version = "E3DTU1nR"
+
+[option]
+optional = true
+description = "Upravené Minecraft písmo. Custom Minecraft font."
