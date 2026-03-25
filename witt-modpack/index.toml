@@ -41,6 +41,11 @@ hash = "4787f85c589daa3354184f46392382f017ac7172f543f22504ce5b8755f6f025"
 metafile = true
 
 [[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "04ddfc50d957ad8cd71306a19b98b3b64d5235bb1c6a694592087ccb1f0c0dfc"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "4152fe1f9f3cd4838128f31207bcd67d3ce148876aab21c4c73e694bce5e3778"
 metafile = true
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6beac106befeffc2a1e033cb58302d3c8b9939d1e1c28d058e802c2c457f294f"
+hash = "26b44bd320778959a1aead2a35c41ad75725e41c00b42d300b1d93536442a154"
 metafile = true
 
 [[files]]
