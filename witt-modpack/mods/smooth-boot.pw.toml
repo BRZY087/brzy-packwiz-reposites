@@ -1,0 +1,13 @@
+name = "Smooth Boot"
+filename = "SmoothBoot-FABRIC+1.20-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gk3B4zrk/versions/t9nlpa0M/SmoothBoot-FABRIC%2B1.20-1.0.0.jar"
+hash-format = "sha512"
+hash = "1932f7091245c2548c50db391e5867b434dd4279b85f5b32f6ef7f817cd1cc28af2b6e4f387b378e5f15ec468e717cf55b2dbabdc24ce7167c76663c9ac24536"
+
+[update]
+[update.modrinth]
+mod-id = "gk3B4zrk"
+version = "t9nlpa0M"

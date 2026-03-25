@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "cee7907a22e2542736c677cc3b2b0f81024bf5948cfea07542b1e929d3831190"
+
+[[files]]
+file = "config/bettergrass.json5"
+hash = "4b060f8bdd6f8ea4b7b4d25d46c007095b5b70ff3254d7f6b9fb49b6511f3ef0"
+
+[[files]]
+file = "config/betterpingdisplay.json"
+hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
+
+[[files]]
+file = "config/blur.json"
+hash = "c217a4f09f8de6a33eac363ea53b42d70dfe263b1e0d9d0cd98caf2c01e773ac"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "c68451123f5ce4210045f877d67d5930cca2c9f183c4951da26a54a0a464539c"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "6edc2c42f650b3c8c5399708420d8ec4c7b76cd76d778f78e969f80e5383c73f"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "e3542efde2011e7315bb2bda8c0f32a4eda47299f82a462d2a78c93c23997752"
 metafile = true
@@ -41,11 +65,6 @@ hash = "4787f85c589daa3354184f46392382f017ac7172f543f22504ce5b8755f6f025"
 metafile = true
 
 [[files]]
-file = "mods/blur-plus.pw.toml"
-hash = "04ddfc50d957ad8cd71306a19b98b3b64d5235bb1c6a694592087ccb1f0c0dfc"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "4152fe1f9f3cd4838128f31207bcd67d3ce148876aab21c4c73e694bce5e3778"
 metafile = true
@@ -53,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "62eee72c3a020fa7e20ddb186d6831b2a8561ab8f1345b0e3bf1d3fa5322ce90"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
 metafile = true
 
 [[files]]
@@ -230,6 +254,11 @@ hash = "e8057f84a7acef0c1612652ccda4f224ebbb55bd4ee6959d708e85969cdefb48"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "4529fda1034a20e80c7f0aa9a0803dbad95a041a2b8c7082907940a335a5a8af"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
@@ -255,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0e4aa88eca0e9bf4d00036b605ddde470a26726da038f562160ec227b2e07653"
+hash = "6beac106befeffc2a1e033cb58302d3c8b9939d1e1c28d058e802c2c457f294f"
 metafile = true
 
 [[files]]
